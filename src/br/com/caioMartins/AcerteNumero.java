@@ -3,7 +3,7 @@ package br.com.caioMartins;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class AcerteNumero {
 
     public static void main(String[] args) {
 	// write your code here
